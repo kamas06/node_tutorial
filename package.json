@@ -1,0 +1,23 @@
+{
+  "name": "howtonode",
+  "version": "1.0.0",
+  "description": "node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "kamas",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamas06/node_tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kamas06/node_tutorial/issues"
+  },
+  "homepage": "https://github.com/kamas06/node_tutorial#readme"
+}
